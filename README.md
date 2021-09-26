@@ -9,7 +9,7 @@
 3. 서울시 구별 미세먼지 예측 사례를 통한 단변량 시계열 분석 방법에 대한 연구 프로젝트 참여
 4. 빅콘테스트 수산biz (연어)
 
-# Model Tutorial
+## Model Tutorial
 1. Stacking
 2. Linear Mixed Model
 
