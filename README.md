@@ -1,7 +1,11 @@
+## Interested
+- ML/DL
+- Data Engineering
+
 ## Educated
-1. TensorFlow/Keras로 배우는 딥러닝/인공지능 교육
-2. 최적화된 도구(R/Python)를 활용한 애널리스트 양성과정
-3. 데이터 크리에이터 캠프 (2020)
+1. 데이터 크리에이터 캠프 (2020)
+2. TensorFlow/Keras로 배우는 딥러닝/인공지능 교육
+3. 최적화된 도구(R/Python)를 활용한 애널리스트 양성과정
 
 ## Achievement
 1. 데이콘 시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회 (public score : 100 , private score : 130)
@@ -11,7 +15,7 @@
 
 ## Model Tutorial
 1. Stacking
-2. Linear Mixed Model
+2. Linear Mixed Model (진행중)
 
 
 프로젝트 발표 영상 :https://www.youtube.com/watch?v=UkW-BUyIb5M&t=56s
