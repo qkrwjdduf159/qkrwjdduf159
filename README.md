@@ -22,6 +22,7 @@
 ## Model Tutorial
 1. Stacking
 2. Linear Mixed Model (진행중)
+3. Normal Equation (진행중)
 
 
 프로젝트 발표 영상 :https://www.youtube.com/watch?v=UkW-BUyIb5M&t=56s
