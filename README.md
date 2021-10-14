@@ -27,8 +27,6 @@
 4. Gradient Descent
 5. Feature Pyramid Network(진행중)
 
-프로젝트 발표 영상 :https://www.youtube.com/watch?v=UkW-BUyIb5M&t=56s
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwjdduf159&show_icons=true&theme=dracula)
 
 
