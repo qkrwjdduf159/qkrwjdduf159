@@ -28,6 +28,7 @@
 3. Normal Equation
 4. Gradient Descent
 5. Feature Pyramid Network(진행중)
+6. Mask RCNN (준비중)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwjdduf159&show_icons=true&theme=dracula)
 
