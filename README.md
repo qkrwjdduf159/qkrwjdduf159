@@ -22,7 +22,7 @@
 3. Skin Cancer
 4. Titanic
 
-## Model Tutorial
+## Model Tutorial [보기](https://github.com/qkrwjdduf159/Model-tutorial)
 1. Stacking
 2. Linear Mixed Model (진행중)
 3. Normal Equation
