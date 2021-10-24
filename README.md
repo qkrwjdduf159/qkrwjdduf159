@@ -16,7 +16,7 @@
 
 4. 빅콘테스트 수산biz (연어) [코드](https://github.com/qkrwjdduf159/BigContest)
 
-## Kaggle Practice
+## Kaggle Practice [보기](https://github.com/qkrwjdduf159/Kaggle-practice)
 1. House Price
 2. Taxi
 3. Skin Cancer
