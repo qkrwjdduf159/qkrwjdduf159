@@ -1,6 +1,6 @@
 ## Interested
 - ML/DL
-- Data Engineering
+- Data analyst
 
 ## Educated
 1. 데이터 크리에이터 캠프 (2020)
