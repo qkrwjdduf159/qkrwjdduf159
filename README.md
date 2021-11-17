@@ -30,6 +30,7 @@
 5. Feature Pyramid Network
 6. Mask RCNN
 7. U-Net (준비중)
+8. YOLO v1 (진행중)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwjdduf159&show_icons=true&theme=dracula)
 
