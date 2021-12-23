@@ -33,6 +33,8 @@
 7. U-Net
 8. YOLO v1 (진행중)
 
+## Skill (수정중)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwjdduf159&show_icons=true&theme=dracula)
 
 
