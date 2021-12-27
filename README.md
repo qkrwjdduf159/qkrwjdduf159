@@ -18,8 +18,11 @@
 5. Computer Vision 공모전 (https://github.com/Proj-Caliber)
 
 ## Skill (수정중)
-
-<img src="https://img.shields.io/badge/style=for-the-badge&logo=아이콘이름&logoColor=white">
+<h3 align='center'><b> Tech Stack </b></h3>
+</br>
+<p align = 'center'>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwjdduf159&show_icons=true&theme=dracula)
 
