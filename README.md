@@ -2,6 +2,13 @@
 - ML/DL
 - Data analyst
 
+## Skill (수정중)
+<h3 align='center'><b> Tech Stack </b></h3>
+</br>
+<p align = 'center'>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+
 ## Educated
 1. 데이터 크리에이터 캠프 (2020)
 2. TensorFlow/Keras로 배우는 딥러닝/인공지능 교육
@@ -16,13 +23,6 @@
 
 4. 빅콘테스트 수산biz (연어) [코드](https://github.com/qkrwjdduf159/BigContest)
 5. Computer Vision 공모전 (https://github.com/Proj-Caliber)
-
-## Skill (수정중)
-<h3 align='center'><b> Tech Stack </b></h3>
-</br>
-<p align = 'center'>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwjdduf159&show_icons=true&theme=dracula)
 
