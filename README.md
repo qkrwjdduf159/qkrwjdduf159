@@ -19,9 +19,8 @@
 
 ## Skill (수정중)
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/style=for-the-badge&logo=아이콘이름&logoColor=white">
 
-출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwjdduf159&show_icons=true&theme=dracula)
 
 
