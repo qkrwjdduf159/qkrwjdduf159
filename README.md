@@ -17,23 +17,9 @@
 4. 빅콘테스트 수산biz (연어) [코드](https://github.com/qkrwjdduf159/BigContest)
 5. Computer Vision 공모전 (https://github.com/Proj-Caliber)
 
-## Kaggle Practice [보기](https://github.com/qkrwjdduf159/Kaggle-practice)
-1. House Price
-2. Taxi
-3. Skin Cancer
-4. Titanic
-
-## Model Tutorial [보기](https://github.com/qkrwjdduf159/Model-tutorial)
-1. Stacking
-2. Linear Mixed Model (진행중)
-3. Normal Equation
-4. Gradient Descent
-5. Feature Pyramid Network
-6. Mask RCNN
-7. U-Net
-8. YOLO v1 (진행중)
-
 ## Skill (수정중)
+
+#007ACC
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwjdduf159&show_icons=true&theme=dracula)
 
