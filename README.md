@@ -23,6 +23,8 @@
 
 4. 빅콘테스트 수산biz (연어) [코드](https://github.com/qkrwjdduf159/BigContest)
 5. Computer Vision 공모전 (https://github.com/Proj-Caliber)
+- AI-Challenge
+- 폐플라스틱 객채검출
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwjdduf159&show_icons=true&theme=dracula)
 
