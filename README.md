@@ -26,6 +26,8 @@
 - AI-Challenge
 - 폐플라스틱 객채검출
 
+6. 데이콘 잡케어 추천 알고리즘 (Job-Market) (진행중)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwjdduf159&show_icons=true&theme=dracula)
 
 
