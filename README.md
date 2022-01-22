@@ -22,7 +22,7 @@
 프로젝트 발표 영상 : [영상보기](https://www.youtube.com/watch?v=UkW-BUyIb5M&t=56s)
 
 4. 빅콘테스트 수산biz (연어) [코드](https://github.com/qkrwjdduf159/BigContest)
-5. Computer Vision 공모전 (https://github.com/Proj-Caliber)
+5. Computer Vision 공모전 (https://github.com/Proj-Caliber/cnn-studies)
 - AI-Challenge
 - 폐플라스틱 객채검출
 
